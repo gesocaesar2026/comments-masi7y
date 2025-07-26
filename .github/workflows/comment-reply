@@ -1,5 +1,4 @@
 name: Reply to Comments
-
 on:
   schedule:
     - cron: "*/30 * * * *"
